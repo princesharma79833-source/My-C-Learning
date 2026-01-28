@@ -1,0 +1,1 @@
+ printf("address of k is: %p\n", m);
